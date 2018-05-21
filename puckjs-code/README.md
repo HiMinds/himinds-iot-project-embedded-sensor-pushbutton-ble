@@ -16,6 +16,6 @@ If we press the button twice it will look like this in a BLE scanner app:
 
 ![alt text](pic/ble-scanner.png)
 
-The code can be found in the /src directory.
+The code can be found in the [/src](https://github.com/HiMinds/himinds-iot-project-embedded-sensor-pushbutton-ble/tree/master/puckjs-code/src) directory.
 
 This project is based on the following code:  [BLE Advertising with Node.js/Python/C#/Android](http://www.espruino.com/Puck.js+Advertising)
