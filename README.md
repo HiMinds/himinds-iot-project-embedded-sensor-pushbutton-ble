@@ -58,3 +58,4 @@ This is what is looks like when you are updating the firmware, you just use your
 * Now tap Upload and wait. The LED should turn blue and the DFU process will start - it will take around 90 seconds to complete
 * If you have problems after completion, perform a "Hard Reset" and try again
 
+The code to our proejct can be found in the [puckjs-code](https://github.com/HiMinds/himinds-iot-project-embedded-sensor-pushbutton-ble/tree/master/puckjs-code) folder.
